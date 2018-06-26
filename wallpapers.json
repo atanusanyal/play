@@ -1,0 +1,164 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/cUz4vT/p1.jpg",
+				"thumbUrl": "https://image.ibb.co/cUz4vT/p1.jpg",
+				"name": "Wallpaper 1",
+                "category": "people"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/jmJxFT/p2.jpg",
+				"thumbUrl": "https://image.ibb.co/jmJxFT/p2.jpg",
+				"name": "Wallpaper 2",
+                "category": "architecture"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/fiKF28/p3.jpg",
+				"thumbUrl": "https://image.ibb.co/fiKF28/p3.jpg",
+				"name": "Wallpaper 3",
+                "category": "architecture,city"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/cwtxFT/p4.jpg",
+				"thumbUrl": "https://image.ibb.co/cwtxFT/p4.jpg",
+				"name": "Wallpaper 4",
+                "category": "mountain"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/hQR69o/p5.jpg",
+				"thumbUrl": "https://image.ibb.co/hQR69o/p5.jpg",
+				"name": "Wallpaper 5",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/e47PvT/p6.jpg",
+				"thumbUrl": "https://image.ibb.co/e47PvT/p6.jpg",
+				"name": "Wallpaper 6",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/cA0BaT/p7.pngg",
+				"thumbUrl": "https://image.ibb.co/cA0BaT/p7.png",
+				"name": "Wallpaper 7",
+                "category": "forest"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/kJRjvT/p8.jpg",
+				"thumbUrl": "https://image.ibb.co/kJRjvT/p8.jpg",
+				"name": "Wallpaper 8",
+                "category": "mountain,sunset"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/h8vBaT/p9.png",
+				"thumbUrl": "https://image.ibb.co/h8vBaT/p9.png",
+				"name": "Wallpaper 9",
+                "category": "city"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/ews2h8/p10.jpg",
+				"thumbUrl": "https://image.ibb.co/ews2h8/p10.jpg",
+				"name": "Wallpaper 10",
+                "category": "forest,sunset"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/fKuyN8/p11.jpg",
+				"thumbUrl": "https://image.ibb.co/fKuyN8/p11.jpg",
+				"name": "Wallpaper 11",
+                "category": "mountain"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/d7HDpo/p12.png",
+				"thumbUrl": "https://image.ibb.co/d7HDpo/p12.png",
+				"name": "Wallpaper 12",
+                "category": "forest"
+			},
+            {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/mFqSFT/p13.jpg",
+				"thumbUrl": "https://image.ibb.co/mFqSFT/p13.jpg",
+				"name": "Wallpaper 13",
+                "category": "nature"
+			},
+	     {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/dKXPvT/p14.jpg",
+				"thumbUrl": "https://image.ibb.co/dKXPvT/p14.jpg",
+				"name": "Wallpaper 14",
+                "category": "nature"
+			},
+	      {
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/dJc7FT/p15.jpg",
+				"thumbUrl": "https://image.ibb.co/dJc7FT/p15.jpg",
+				"name": "Wallpaper 15",
+                "category": "nature"
+			},
+	      
+		{
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/bDT3po/p16.jpg",
+				"thumbUrl": "https://image.ibb.co/bDT3po/p16.jpg",
+				"name": "Wallpaper 29",
+                "category": "nature"
+			}
+		]
+}
